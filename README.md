@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to have a proyect
 - 🥅 2021: Goals: Lern more about programing
-- ⚡ Fun fact: I love the encription
+- ⚡ Fun fact: I use arch btw
 
 ### Spotify Playing 🎧
 
