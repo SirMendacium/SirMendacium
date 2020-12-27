@@ -23,7 +23,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" />][https://mail.protonmail.com/inbox/0KK2S-10S7rRixSknSK-6SeQOSN6YAyrHGNVwJLlwjKVxFZlfoX27MFpR1eX7OihxIZsxljUV61KRsGSS5U_XA==]
+[<img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
@@ -32,6 +32,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Netlify" width="26px" src="https://cdn.freebiesupply.com/logos/thumbs/1x/netlify-logo.png" />][webdevplaylist]
 [<img align="left" alt="Bootstrap" width="26px" src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack-490x412.png" />][webdevplaylist]
+[<img align="left" alt="Bootstrap" width="26px" src="https://maddesigns.de/rwd-sass-compass/img/sass-logo-new.png" />][webdevplaylist]
 <br />
 <br />
 
