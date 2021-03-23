@@ -34,10 +34,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/max0u7
 [youtube]: https://youtube.com/codeSTACKr
