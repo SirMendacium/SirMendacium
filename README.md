@@ -7,13 +7,6 @@
 - 🥅 2021: Goals: Lern more about programing
 - ⚡ Fun fact: I use arch btw
 
-### Connect with me:
-In construction
-[comment]: <> ([<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]) 
-[comment]: <> ([<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]) 
-[comment]: <> ([<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]) 
-
-
 
 <br />
 
