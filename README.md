@@ -22,7 +22,7 @@
 [<img align="left" alt="Netlify" width="26px" src="https://cdn.freebiesupply.com/logos/thumbs/1x/netlify-logo.png" />][webdevplaylist]
 [<img align="left" alt="Bootstrap" width="26px" src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack-490x412.png" />][webdevplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://vanseodesign.com/blog/wp-content/uploads/2015/09/sass-logo-2.png" />][webdevplaylist]
-[<img align="left" alt="node" width="26px" src="https://nodejs.org/static/images/logo.svg" />][webdevplaylist]
+[<img align="left" alt="node" width="26px" src="https://external-preview.redd.it/SCB39uPF5fu5oSJdUXK1q4uvUfQLkq_cqV5nbC9HhEk.jpg?auto=webp&s=e02a8f5427773a07ee4d0ae14730c8d3dce894c1" />][webdevplaylist]
 
 <br />
 <br />
