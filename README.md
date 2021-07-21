@@ -23,6 +23,7 @@
 [<img align="left" alt="Bootstrap" width="26px" src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack-490x412.png" />][webdevplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://vanseodesign.com/blog/wp-content/uploads/2015/09/sass-logo-2.png" />][webdevplaylist]
 [<img align="left" alt="node" width="26px" src="https://external-preview.redd.it/SCB39uPF5fu5oSJdUXK1q4uvUfQLkq_cqV5nbC9HhEk.jpg?auto=webp&s=e02a8f5427773a07ee4d0ae14730c8d3dce894c1" />][webdevplaylist]
+[<img align="left" alt="node" width="26px" src="http://4.bp.blogspot.com/--Z47AygFgro/Tgt5chuuhyI/AAAAAAAAY-c/RF6Wzj4tYnA/s1600/Mysql_Logo2.png" />][webdevplaylist]
 
 <br />
 <br />
