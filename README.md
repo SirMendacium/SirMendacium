@@ -2,7 +2,7 @@
 
 ## I'm a Student, Curious, Creative, and Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning how to make web apps�
 - 👯 I’m looking to have a proyect
 - 🥅 2021: Goals: Lern more about programing
 - ⚡ Fun fact: I use arch btw
