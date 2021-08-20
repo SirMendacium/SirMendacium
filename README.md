@@ -30,7 +30,7 @@
 
 ---
 
-[website]:ignaciolostorto.com
+[website]: https://www.ignaciolostorto.com/
 [twitter]: https://twitter.com/max0u7
 [youtube]: https://youtube.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
