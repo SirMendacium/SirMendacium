@@ -2,9 +2,9 @@
 
 ## I'm a Student, Curious, Creative, and Developer!!
 
-- 🌱 I’m currently learning how to make web apps
-- 👯 I’m looking to have a proyect
-- 🥅 2021: Goals: Lern more about programing
+- 🌱 I’m currently learning how deploy a database
+- 👯 I’m looking to grow my portfolio
+- 🥅 2021: Goals: Have a good portfolio with full-stack responisve apps
 - ⚡ Fun fact: I use arch btw
 
 
