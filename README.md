@@ -24,6 +24,7 @@
 [<img align="left" alt="Sass" width="26px" src="https://vanseodesign.com/blog/wp-content/uploads/2015/09/sass-logo-2.png" />][webdevplaylist]
 [<img align="left" alt="node" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />][webdevplaylist]
 [<img align="left" alt="node" width="26px" src="https://blog.kedare.net/images/blog/logo-mysql-pgsql.png" />][webdevplaylist]
+[<img align="left" alt="node" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/terminal-1-logo-black-and-white.png" />][webdevplaylist]
 
 <br />
 <br />
