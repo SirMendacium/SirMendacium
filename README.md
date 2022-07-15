@@ -29,7 +29,7 @@
 <br />
 <br />
 
-[<img align="left" alt="Vim" width="26px" src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=Mr_Max0u7" />][webdevplaylist]
+<img align="left" alt="Vim"  src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=Mr_Max0u7" />
 
 ---
 
