@@ -30,8 +30,6 @@
 
 
 <img align="left" alt="Vim"  src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=Mr_Max0u7" />
-<br />
-
 
 [website]: https://www.ignaciolostorto.com/
 [twitter]: https://twitter.com/max0u7
