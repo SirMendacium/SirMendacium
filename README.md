@@ -29,7 +29,7 @@
 <br />
 <br />
 
-### My Lastest Blog Posts
+### My Lastest Blog Posts:
 <img align="left" alt="Vim"  src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=Mr_Max0u7" />
 
 [website]: https://www.ignaciolostorto.com/
