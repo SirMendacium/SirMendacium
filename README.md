@@ -27,11 +27,12 @@
 [<img align="left" alt="node" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/terminal-1-logo-black-and-white.png" />][webdevplaylist]
 
 <br />
-<br />
+
 
 <img align="left" alt="Vim"  src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=Mr_Max0u7" />
+<br />
+<br />
 
----
 
 [website]: https://www.ignaciolostorto.com/
 [twitter]: https://twitter.com/max0u7
