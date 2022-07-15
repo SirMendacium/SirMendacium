@@ -29,6 +29,8 @@
 <br />
 <br />
 
+https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=Mr_Max0u7
+
 ---
 
 [website]: https://www.ignaciolostorto.com/
