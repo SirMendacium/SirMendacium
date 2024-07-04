@@ -4,9 +4,7 @@
 
 - 🌱 I’m currently learning how deploy a database
 - 👯 I’m looking to grow my portfolio
-- 🥅 2021: Goals: Have a good portfolio with full-stack responisve apps
-- ⚡ Fun fact: I use arch btw
-
+- ⚡ Fun fact: I like philosphy
 
 <br />
 
@@ -29,14 +27,9 @@
 <br />
 <br />
 
-### My Lastest Blog Posts:
-<img align="left" alt="Vim"  src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=Mr_Max0u7" />
 
 [website]: https://www.ignaciolostorto.com/
 [twitter]: https://twitter.com/max0u7
 [youtube]: https://youtube.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
