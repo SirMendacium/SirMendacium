@@ -18,15 +18,15 @@ My interests sit at the intersection of:
 * Exploring startup opportunities and building early-stage projects.
 * Interested in international opportunities and global engineering.
 
-##Tech Stack & Tools
+## Tech Stack & Tools
 
-##Languages
+## Languages
 
 * Python
 * JavaScript
 
-##Tools
+## Tools
 
 * Git & GitHub
 * Linux
-* VS Code
+* Cursor
