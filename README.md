@@ -1,7 +1,7 @@
 ### Hi there, I'm Nacho 👋
 
 ## Systems Engineering Student | Aspiring Founder | Technology & Aviation Enthusiast
-I’m an aspiring engineer from Uruguay 🇺🇾 interested in building technology, exploring complex systems, and creating businesses with global impact.
+I’m an aspiring engineer from Uruguay interested in building technology, exploring complex systems, and creating businesses with global impact.
 
 My interests sit at the intersection of:
 
